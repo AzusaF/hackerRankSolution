@@ -1,3 +1,3 @@
 # hackerRankSolution
-HackerRank Solution  
+HackerRank Solution    
 https://www.hackerrank.com/profile/fukuda_azusa
