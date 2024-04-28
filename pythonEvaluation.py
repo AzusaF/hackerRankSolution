@@ -1,0 +1,2 @@
+# Python Evaluation
+eval(input())
